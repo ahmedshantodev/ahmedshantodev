@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
   
-- 🔭 I’m currently working on [Whisper Waves - The Ulimate Chatting App](https://whisper-waves-chatting-app.vercel.app/)
+- 🔭 I’m currently working on [Ripple - Chatting App](https://ripple-chatting-app.vercel.app/)
   
 - 🔭 I’m currently working on [FoodTrove - ecommarce](https://foodtrove-ecommarce.vercel.app/)
 
