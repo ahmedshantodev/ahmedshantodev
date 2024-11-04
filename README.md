@@ -9,7 +9,7 @@
   
 - 🔭 I’m currently working on [Ripple - Chatting App](https://ripple-chatting-app.vercel.app/)
   
-- 🔭 I’m currently working on [Social Media Wep Application](https://foodtrove-ecommarce.vercel.app/](https://social-media-frontend-flame-chi.vercel.app/))
+- 🔭 I’m currently working on [Social Media Wep Application](https://social-media-frontend-flame-chi.vercel.app/)
 
 - 💬 Ask me about **REACT JS**
 
